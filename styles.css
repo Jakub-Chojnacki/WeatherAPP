@@ -1,0 +1,22 @@
+body{
+    background: #eeedec;
+    letter-spacing: 0.2em;
+    font-size: 0.8em;
+    background:linear-gradient(-45deg, #EE7752, #E73C7E, #23A6D5, #c471ed);
+    background-size: 400% 400%;
+   
+ 
+}
+
+.container{
+    max-width: 400px;
+}
+
+.icon {
+    position: relative;
+    top: -50px;
+    border-radius: 50%;
+    width: 100px;
+    margin-bottom: -50px;
+}
+
